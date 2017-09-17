@@ -1,0 +1,26 @@
+{
+  "name": "qlouder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/bigquery": "^0.9.6",
+    "axios": "^0.16.2",
+    "connect-memcached": "^0.2.0",
+    "cors": "^2.8.4",
+    "escape-html": "^1.0.3",
+    "express": "^4.15.4",
+    "express-session": "^1.15.5",
+    "firebase": "^4.3.1",
+    "firebase-admin": "^5.2.1",
+    "nconf": "^0.8.4",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^1.0.0",
+    "react-router": "^4.2.0"
+  }
+}
